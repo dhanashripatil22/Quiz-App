@@ -1,7 +1,7 @@
 # Quiz-App
 WizQuiz is an engaging quiz application built using Python and the Tkinter library for the graphical user interface. The quiz is themed around the magical world of Harry Potter, offering users an enjoyable experience while testing their knowledge of the popular book series.
 
-How to Use:
+# How to Use:
 
 1. Clone the repository to your local machine.
 2. Run the Python script (quiz_app.py) to start the quiz.
